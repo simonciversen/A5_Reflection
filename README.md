@@ -7,7 +7,7 @@
 - Talking to the representatives from Niras gave us a chance to ask questions about the usability of our tool. After a fun and intereseting yet important conversation it became clear to us that the tool would be somewhat useless if there was not an output that could later be made use of for other purposes then to just read. Our goal shifted from **«to quickly asses cost associated with design changes»**, to more of a economical view, where hopfully the output data could come in handy if other calculations or visualizations were to be made. 
 
 
-## 1. process of developing the tool
+## 1. Process of developing the tool
 Choosing cost estimation as a usecase was not arbritary for us, because of the fact that we already touched by this topic on our bachelor thesis where we focused on building schools with CLT, as a substitution for concrete and steel, from a structural and economical perspective. Since we both are focusing our master on the subject of project management, cost as well substitute materials for concrete will be important factors for future bulding and therefore a fascinating issue that might very well become important when it comes to our thesis.
 
 As for the freedom of choice of usecases, we personally liked being free in such decicion making, because working with things we find interesting, gives us an extra insetive to create something we are proud to hand over. We think that if there are enough usecases to cover most of the focus areas the students in the class have in their curriculum, almost everyone might find a usecase they can be somewhat passionate about.
